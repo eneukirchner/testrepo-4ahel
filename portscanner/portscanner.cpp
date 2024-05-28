@@ -1,6 +1,4 @@
 #include "portscanner.h"
-#include <QNetworkConfiguration>
-
 
 Portscanner::Portscanner(QWidget *parent)
     : QWidget(parent),
